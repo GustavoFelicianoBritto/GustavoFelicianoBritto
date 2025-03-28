@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, SQL and Java
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me Gustavofelicianoemail@gmail.com
+- 🔗 https://www.linkedin.com/in/gustavofsbritto/
+- 🔗 https://nordexstudiobrasil.wixsite.com/ogusfe (Portfólio)
 - 😄 Pronouns: He/him
 <!-- - ⚡ Fun fact: ... -->
 
