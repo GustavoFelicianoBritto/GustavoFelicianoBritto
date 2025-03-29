@@ -1,3 +1,6 @@
+![GustavoFelicianoBritto's Stats](https://github-readme-stats.vercel.app/api?username=GustavoFelicianoBritto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![GustavoFelicianoBritto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoFelicianoBritto&theme=vue-dark&hide_border=false)
+
 - 👋 Hi, I’m @GustavoFelicianoBritto
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Python, SQL and Java
